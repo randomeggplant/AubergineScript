@@ -1,0 +1,19 @@
+{
+  "name": "plainscript",
+  "version": "1.0.0",
+  "description": "PlainScript is a programming language that works on your cmd or terminal(variables, if, else, functions, math, and everything). To run PlainScript you should download python(https://www.python.org/) and execute the file using python. Enjoy!",
+  "main": "shell.py",
+  "scripts": {
+    "test": "py test.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randomeggplant/PlainScript.git"
+  },
+  "author": "RandomEggplant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randomeggplant/PlainScript/issues"
+  },
+  "homepage": "https://github.com/randomeggplant/PlainScript#readme"
+}
